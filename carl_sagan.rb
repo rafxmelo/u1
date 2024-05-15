@@ -12,7 +12,7 @@ sagan = [
           { 2 => ['to']}
         ]
 
-puts "#{carl[:words][2].capitalize} #{sagan[1]['waaaaaay']} #{sagan[1][:th3]} #{carl[:toast]} #{sagan[3][2][0]} #{sagan[2]}#{carl[:punctuation][1]}"
+puts "#{carl[:words][2].capitalize} #{sagan[0][:are]} #{sagan[0]['A']} #{sagan[1]['waaaaaay']} #{carl[:words][1]} #{sagan[1][:th3]} #{carl[:toast]} #{sagan[3][2][0]} #{carl[:words][0]} #{sagan[2]}#{carl[:punctuation][1]}"
 
 ghosts = [
   { name: 'Inky', age: 4, loves: 'reindeers', net_worth: 25 },
